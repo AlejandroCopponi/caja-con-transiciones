@@ -66,11 +66,11 @@
 
 @keyframes h3-opacidad{
 
-    from{
-        font-size: 50px;
+    0%, 100%{
+        color: aliceblue;
     }
-    to{
-        font-size: 30px;
+    50%{
+        color: aqua;
     }
 }
 
