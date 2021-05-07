@@ -51,6 +51,7 @@
     font-size: 30px;
     animation-name: h3-opacidad;
     animation-duration: 1.2s;
+    animation-iteration-count: infinite;
 }
 
 .redes{
